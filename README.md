@@ -1,6 +1,6 @@
-# <span style="color: orange;">Todo List App</span>
+# <span style="color: orange;">To Do List App</span>
 
-A simple and intuitive **Todo List** app built with **React Native**. This app allows users to manage their tasks efficiently by adding and removing items from their to-do list.
+A simple and intuitive **To Do List** app built with **React Native**. This app allows users to manage their tasks efficiently by adding and removing items from their to do list.
 
 ## Features
 
